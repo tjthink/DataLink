@@ -35,7 +35,7 @@
 
     <properties>
         <spring-version>4.1.6.RELEASE</spring-version>
-        <jetty-version>9.2.15.v20160210</jetty-version>
+        <jetty-version>9.4.58.v20250814</jetty-version>
         <project-source-encoding>UTF-8</project-source-encoding>
     </properties>
 
